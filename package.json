@@ -1,0 +1,17 @@
+{
+  "name": "caodata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eyes": "^0.1.8",
+    "request": "^2.88.0",
+    "util": "^0.12.1",
+    "xml2js": "^0.4.22"
+  }
+}
